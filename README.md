@@ -4,6 +4,9 @@
 
 The purpose of this (mostly AI-generated) short script is to demonstrate how to handle Excel files with Python.
 
+The script loads the contents of the file `existing.xlsx`, reads two values within it, sums them, and finally
+generates an output file named `generated.xsls` containing the sum of the two values.
+
 ## Usage
 
 ### Prerequisites
